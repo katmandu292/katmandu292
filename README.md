@@ -1,2 +1,3 @@
 - 🐱‍🚀 Hello there, I’m the Catman
-- 👀 I’m interested in Shell Scripting and Oracle PL/SQL
+- 👀 I dig Shell Scripting and Oracle PL/SQL
+ 
